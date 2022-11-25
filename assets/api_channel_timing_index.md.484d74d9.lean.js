@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as a,a as e}from"./app.af28e0b7.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"api/channel/timing/index.md"}'),p={name:"api/channel/timing/index.md"},t=e("",2),o=[t];function l(c,r,i,_,d,A){return a(),n("div",null,o)}const C=s(p,[["render",l]]);export{y as __pageData,C as default};

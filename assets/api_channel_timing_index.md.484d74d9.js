@@ -1,0 +1,6 @@
+import{_ as s,c as n,o as a,a as e}from"./app.af28e0b7.js";const y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"api/channel/timing/index.md"}'),p={name:"api/channel/timing/index.md"},t=e(`<p>\u8BA1\u65F6</p><div class="language-js"><button title="Copy Code" class="copy"></button><span class="lang">js</span><pre class="shiki"><code><span class="line"><span style="color:#676E95;">// \u5F00\u59CB\u8BA1\u65F6</span></span>
+<span class="line"><span style="color:#A6ACCD;">mx</span><span style="color:#89DDFF;">.</span><span style="color:#82AAFF;">timerStart</span><span style="color:#A6ACCD;">()</span></span>
+<span class="line"><span style="color:#676E95;">// \u8BA1\u65F6\u7ED3\u675F \u8FD4\u56DE\u8BA1\u65F6\u65F6\u95F4</span></span>
+<span class="line"><span style="color:#C792EA;">const</span><span style="color:#A6ACCD;"> time </span><span style="color:#89DDFF;">=</span><span style="color:#A6ACCD;"> mx</span><span style="color:#89DDFF;">.</span><span style="color:#82AAFF;">timerStop</span><span style="color:#A6ACCD;">()</span></span>
+<span class="line"></span>
+<span class="line"></span></code></pre></div>`,2),o=[t];function l(c,r,i,_,d,A){return a(),n("div",null,o)}const C=s(p,[["render",l]]);export{y as __pageData,C as default};
